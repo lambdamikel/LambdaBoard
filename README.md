@@ -28,7 +28,7 @@ The Gerbers are [here](gerbers/LambdaBoard-v2.zip).
 
 ## OshPark Link 
 
-Also, [here is link to OshPark for immediate ordering of PCBs.](https://oshpark.com/shared_projects/gfReKSs4) 
+Also, [here is a link to OshPark for immediate ordering of PCBs.](https://oshpark.com/shared_projects/gfReKSs4) 
 
 ## Enjoy! 
 
