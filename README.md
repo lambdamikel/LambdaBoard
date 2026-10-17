@@ -1,6 +1,8 @@
 # LambdaBoard
 An Expansion Port Backplane Extender for the Amstrad / Schneider CPC
 
+#### Project Page: [www.michael-wessel.info/hardware.html](https://www.michael-wessel.info/hardware.html#lambdaboard)
+
 ## Purpose 
 
 Add 3 MX4-compatible expansion card slots to your Amstrad / Schneider CPC, without loosing the edge connector.
